@@ -1,0 +1,23 @@
+Code 1:
+
+VARIABLE:                  VALUE:
+-auntContactInfor          "Paula", "Smith", "1234 Main Street", "St. Louis", "MO",12345
+
+console.log(auntContactInfo}; "Paula", "Smith", "1234 Main Street", "St. Louis", "MO",12345
+
+
+
+Code 2:
+VARIABLE:                  VALUE:
+-produce                   "apples", "Oranges"
+-Frozen                    "broccoli", "ice cream", "hashbrowns"
+
+consul.log(frozen); "broccoli", "ice cream", "hashbrowns"
+
+
+
+Code 3:
+VARIABLE:                  VALUE:
+-movielibrary              "Bambi", "Beetlejuice", "E.T.", "Toy Story", "Zoro"
+
+consule.log(movieLibrary); "Bambi", "Beetlejuice", "E.T.", "Toy Story", "Zoro"
